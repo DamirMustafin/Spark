@@ -1,0 +1,11 @@
+<component name="libraryTable">
+  <library name="russianStemmer">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/src/main/libraries/russianStemmer.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$PROJECT_DIR$/src/main/libraries/russianStemmer.jar!/" />
+    </SOURCES>
+  </library>
+</component>
